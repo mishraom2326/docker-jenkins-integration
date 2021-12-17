@@ -1,0 +1,2 @@
+FROM Java:8
+EXPOSE 8081
